@@ -1,0 +1,23 @@
+body {
+  background-image:url('moon.jpg');
+  background-color:
+}
+
+.box {
+background-color: gray;
+color: white
+}
+
+h1 {
+ color: white;
+}
+
+.imagebox {
+
+  background-color: white;
+}
+
+.valuebox {
+
+  background-color: gray
+}
